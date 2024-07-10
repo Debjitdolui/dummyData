@@ -39,7 +39,62 @@
   }
 ]
 ,
-  "profile": {
-    "name": "typicode"
-  }
+  "companies": [
+    {
+      "name": "Starbucks",
+      "salary": "$40,000 - $50,000",
+      "reviews": 4.5,
+      "logo": "https://dummyimage.com/100x100/000/fff&text=Starbucks",
+      "details": "Starbucks is a global coffee company known for its specialty coffee and related products.",
+      "locations": ["Delhi", "Mumbai", "Bengaluru"]
+    },
+    {
+      "name": "Zomato",
+      "salary": "$45,000 - $55,000",
+      "reviews": 4.3,
+      "logo": "https://dummyimage.com/100x100/000/fff&text=Zomato",
+      "details": "Zomato is a leading online food delivery company providing a platform for restaurants and food lovers.",
+      "locations": ["Kolkata", "Delhi", "Pune"]
+    },
+    {
+      "name": "HDFC Bank",
+      "salary": "$50,000 - $60,000",
+      "reviews": 4.1,
+      "logo": "https://dummyimage.com/100x100/000/fff&text=HDFC+Bank",
+      "details": "HDFC Bank is a major financial services company in India, offering a wide range of banking products and services.",
+      "locations": ["Mumbai", "Gujarat", "Chennai"]
+    },
+    {
+      "name": "Tata Motors",
+      "salary": "$55,000 - $65,000",
+      "reviews": 4.4,
+      "logo": "https://dummyimage.com/100x100/000/fff&text=Tata+Motors",
+      "details": "Tata Motors is a leading automotive manufacturer in India, producing a range of vehicles including cars, trucks, and buses.",
+      "locations": ["Delhi", "Pune", "Bengaluru"]
+    },
+    {
+      "name": "ICICI Bank",
+      "salary": "$50,000 - $60,000",
+      "reviews": 4.2,
+      "logo": "https://dummyimage.com/100x100/000/fff&text=ICICI+Bank",
+      "details": "ICICI Bank is a prominent banking and financial services company in India, providing a variety of financial products and services.",
+      "locations": ["Mumbai", "Kolkata", "Chennai"]
+    },
+    {
+      "name": "Amazon",
+      "salary": "$60,000 - $70,000",
+      "reviews": 4.7,
+      "logo": "https://dummyimage.com/100x100/000/fff&text=Amazon",
+      "details": "Amazon is a global e-commerce and cloud computing company, known for its vast online marketplace and innovative technology services.",
+      "locations": ["Bengaluru", "Delhi", "Pune"]
+    },
+    {
+      "name": "Flipkart",
+      "salary": "$55,000 - $65,000",
+      "reviews": 4.5,
+      "logo": "https://dummyimage.com/100x100/000/fff&text=Flipkart",
+      "details": "Flipkart is a leading e-commerce company in India, offering a wide range of products including electronics, fashion, and home goods.",
+      "locations": ["Bengaluru", "Gujarat", "Mumbai"]
+    }
+  ]
 }
