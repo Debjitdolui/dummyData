@@ -44,7 +44,7 @@
       "name": "Starbucks",
       "salary": "$40,000 - $50,000",
       "reviews": 4.5,
-      "logo": "https://dummyimage.com/100x100/000/fff&text=Starbucks",
+      "logo": "https://images.crowdspring.com/blog/wp-content/uploads/2022/09/07052909/62bc70073fd3864405fe0551_starbucks-logo-1992-2011.png",
       "details": "Starbucks is a global coffee company known for its specialty coffee and related products.",
       "locations": ["Delhi", "Mumbai", "Bengaluru"]
     },
@@ -52,7 +52,7 @@
       "name": "Zomato",
       "salary": "$45,000 - $55,000",
       "reviews": 4.3,
-      "logo": "https://dummyimage.com/100x100/000/fff&text=Zomato",
+      "logo": "https://i.pinimg.com/736x/71/2f/38/712f38a89036a0899889d8ca7febdbc6.jpg",
       "details": "Zomato is a leading online food delivery company providing a platform for restaurants and food lovers.",
       "locations": ["Kolkata", "Delhi", "Pune"]
     },
@@ -60,7 +60,7 @@
       "name": "HDFC Bank",
       "salary": "$50,000 - $60,000",
       "reviews": 4.1,
-      "logo": "https://dummyimage.com/100x100/000/fff&text=HDFC+Bank",
+      "logo": "https://e7.pngegg.com/pngimages/257/159/png-clipart-hdfc-logo-thumbnail-bank-logos-thumbnail.png",
       "details": "HDFC Bank is a major financial services company in India, offering a wide range of banking products and services.",
       "locations": ["Mumbai", "Gujarat", "Chennai"]
     },
@@ -68,7 +68,7 @@
       "name": "Tata Motors",
       "salary": "$55,000 - $65,000",
       "reviews": 4.4,
-      "logo": "https://dummyimage.com/100x100/000/fff&text=Tata+Motors",
+      "logo": "https://w7.pngwing.com/pngs/1018/823/png-transparent-tata-motors-logo-car-tamo-racemo-philippines-car-blue-text-logo-thumbnail.png",
       "details": "Tata Motors is a leading automotive manufacturer in India, producing a range of vehicles including cars, trucks, and buses.",
       "locations": ["Delhi", "Pune", "Bengaluru"]
     },
@@ -76,7 +76,7 @@
       "name": "ICICI Bank",
       "salary": "$50,000 - $60,000",
       "reviews": 4.2,
-      "logo": "https://dummyimage.com/100x100/000/fff&text=ICICI+Bank",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8mXBusladp4eop5YLbiGOpipboZcpsGylw&s",
       "details": "ICICI Bank is a prominent banking and financial services company in India, providing a variety of financial products and services.",
       "locations": ["Mumbai", "Kolkata", "Chennai"]
     },
@@ -84,7 +84,7 @@
       "name": "Amazon",
       "salary": "$60,000 - $70,000",
       "reviews": 4.7,
-      "logo": "https://dummyimage.com/100x100/000/fff&text=Amazon",
+      "logo": "https://www.shutterstock.com/shutterstock/photos/2270561027/display_1500/stock-vector-amazon-logo-icon-logo-sign-art-design-symbol-famous-industry-jeff-bezos-corporate-text-isolated-2270561027.jpg",
       "details": "Amazon is a global e-commerce and cloud computing company, known for its vast online marketplace and innovative technology services.",
       "locations": ["Bengaluru", "Delhi", "Pune"]
     },
@@ -92,7 +92,7 @@
       "name": "Flipkart",
       "salary": "$55,000 - $65,000",
       "reviews": 4.5,
-      "logo": "https://dummyimage.com/100x100/000/fff&text=Flipkart",
+      "logo": "https://w7.pngwing.com/pngs/160/304/png-transparent-flipkart-logo-thumbnail.png",
       "details": "Flipkart is a leading e-commerce company in India, offering a wide range of products including electronics, fashion, and home goods.",
       "locations": ["Bengaluru", "Gujarat", "Mumbai"]
     }
