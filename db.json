@@ -31,7 +31,24 @@
     "salary": "$100,000 - $120,000",
     "description": "Lead product development initiatives from conception to launch, collaborating with cross-functional teams.",
     "location": "Seattle, WA"
-  }
+  },
+    {
+  "position": "Full Stack Developer",
+  "company": "Tech Innovators Inc.",
+  "rating": 4.8,
+  "salary": "$85,000 - $110,000",
+  "description": "Develop and maintain web applications using modern technologies like React, Node.js, and MongoDB.",
+  "location": "San Francisco, CA"
+},
+{
+  "position": "Data Scientist",
+  "company": "Analytics Hub",
+  "rating": 4.7,
+  "salary": "$95,000 - $120,000",
+  "description": "Analyze large datasets to derive actionable insights and build predictive models using machine learning algorithms.",
+  "location": "New York, NY"
+}
+
 ]
 ,
   "companies": [
