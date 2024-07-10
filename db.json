@@ -4,10 +4,41 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "recentpsotedjobs":[
+  {
+    "position": "Frontend Developer",
+    "company": "Tech Innovators Inc.",
+    "rating": 4.8,
+    "salary": "$80,000 - $100,000",
+    "description": "Join our dynamic team to create cutting-edge web applications using React and Redux.",
+    "location": "San Francisco, CA"
+  },
+  {
+    "position": "Backend Engineer",
+    "company": "DataTech Solutions",
+    "rating": 4.5,
+    "salary": "$90,000 - $110,000",
+    "description": "Develop scalable backend solutions using Node.js and MongoDB for our data analytics platform.",
+    "location": "New York, NY"
+  },
+  {
+    "position": "UX/UI Designer",
+    "company": "Creative Digital Agency",
+    "rating": 4.6,
+    "salary": "$70,000 - $90,000",
+    "description": "Design intuitive user interfaces and engaging user experiences for web and mobile applications.",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "position": "Product Manager",
+    "company": "E-commerce Solutions Ltd.",
+    "rating": 4.7,
+    "salary": "$100,000 - $120,000",
+    "description": "Lead product development initiatives from conception to launch, collaborating with cross-functional teams.",
+    "location": "Seattle, WA"
+  }
+]
+,
   "profile": {
     "name": "typicode"
   }
